@@ -1,0 +1,66 @@
+{
+  "name": {
+    "family_name": {
+      "ja": "本田",
+      "ja-Kana": "ホンダ",
+      "en": "Honda"
+    },
+    "given_name": {
+      "ja": "茜吏",
+      "ja-Kana": "センリ",
+      "en": "Senri"
+    }
+  },
+  "education": [
+    {
+      "@id": "https://api.researchmap.jp/senr1/education/48581274",
+      "@type": "education",
+      "@reverse": "https://api.researchmap.jp/senr1/education",
+      "rm:id": "48581274",
+      "rm:user_id": "R000055163",
+      "display": "disclosed",
+      "major_achievement": false,
+      "rm:creator_id": "R000055163",
+      "rm:creator_type": "myself",
+      "rm:created": "2024-12-01T13:57:21Z",
+      "rm:modifier_id": "R000055163",
+      "rm:modifier_type": "myself",
+      "rm:modified": "2024-12-01T13:57:21Z",
+      "from_date": "2019-04",
+      "to_date": "2024-03",
+      "rm:institution_code": "0220003000",
+      "affiliation": {
+        "ja": "一橋大学",
+        "en": "Hitotsubashi University"
+      },
+      "department": {
+        "ja": "社会学部",
+        "en": "Faculty of Social Sciences"
+      }
+    },
+    {
+      "@id": "https://api.researchmap.jp/senr1/education/48581275",
+      "@type": "education",
+      "@reverse": "https://api.researchmap.jp/senr1/education",
+      "rm:id": "48581275",
+      "rm:user_id": "R000055163",
+      "display": "disclosed",
+      "major_achievement": false,
+      "rm:creator_id": "R000055163",
+      "rm:creator_type": "myself",
+      "rm:created": "2024-12-01T13:59:21Z",
+      "rm:modifier_id": "R000055163",
+      "rm:modifier_type": "myself",
+      "rm:modified": "2024-12-01T14:04:59Z",
+      "from_date": "2021-08",
+      "to_date": "2022-05",
+      "rm:institution_code": "T147000000",
+      "affiliation": {
+        "ja": "パリ政治学院, 交換留学"
+      },
+      "note": {
+        "ja": "交換留学"
+      }
+    }
+  ]
+}
