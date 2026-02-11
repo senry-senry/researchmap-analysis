@@ -1,1 +1,4 @@
 # researchmap-analysis
+
+collect_permalink.py でパーマリンクの一覧を取得
+get_researchmap_data.pyで、取得したパーマリンクから研究者情報を取得
